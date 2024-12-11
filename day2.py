@@ -1,0 +1,11 @@
+
+print("hello"+ input("what is your name"))
+print(input())
+print(input())
+print(input())
+num1=int(input())
+num2=int(input())
+print(num1*num2)
+length=len("aleena")
+print(length)
+print(len(input()))
